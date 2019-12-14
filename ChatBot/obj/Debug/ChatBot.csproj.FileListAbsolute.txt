@@ -1,0 +1,113 @@
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\bin\Debug\ChatBot.exe.config
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\bin\Debug\ChatBot.exe
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\bin\Debug\ChatBot.pdb
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.Form1.resources
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.YearForm.resources
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.StartForm.resources
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.exe
+E:\torrents\Новая папка\danil21-chatbot-3391367cf567\ChatBot\obj\Debug\ChatBot.pdb
+D:\chatbot\ChatBot\bin\Debug\ChatBot.exe.config
+D:\chatbot\ChatBot\bin\Debug\ChatBot.exe
+D:\chatbot\ChatBot\bin\Debug\ChatBot.pdb
+D:\chatbot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+D:\chatbot\ChatBot\obj\Debug\ChatBot.Form1.resources
+D:\chatbot\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+D:\chatbot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+D:\chatbot\ChatBot\obj\Debug\ChatBot.YearForm.resources
+D:\chatbot\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+D:\chatbot\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+D:\chatbot\ChatBot\obj\Debug\ChatBot.StartForm.resources
+D:\chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+D:\chatbot\ChatBot\obj\Debug\ChatBot.exe
+D:\chatbot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.Form1.resources
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.YearForm.resources
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.StartForm.resources
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\Danil\Downloads\Telegram Desktop\chatbot (4)\chatbot\ChatBot\obj\Debug\ChatBot.pdb
+C:\chatbot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\chatbot\ChatBot\bin\Debug\ChatBot.exe
+C:\chatbot\ChatBot\bin\Debug\ChatBot.pdb
+C:\chatbot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\chatbot\ChatBot\obj\Debug\ChatBot.Form1.resources
+C:\chatbot\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+C:\chatbot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\chatbot\ChatBot\obj\Debug\ChatBot.YearForm.resources
+C:\chatbot\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+C:\chatbot\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+C:\chatbot\ChatBot\obj\Debug\ChatBot.StartForm.resources
+C:\chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\chatbot\ChatBot\obj\Debug\ChatBot.exe
+C:\chatbot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.Form1.resources
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.YearForm.resources
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.StartForm.resources
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\User\Desktop\IT\folder\chatbot\ChatBot\obj\Debug\ChatBot.pdb
+D:\Backup\chatbot\ChatBot\bin\Debug\ChatBot.exe.config
+D:\Backup\chatbot\ChatBot\bin\Debug\ChatBot.exe
+D:\Backup\chatbot\ChatBot\bin\Debug\ChatBot.pdb
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.Form1.resources
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.YearForm.resources
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.StartForm.resources
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.exe
+D:\Backup\chatbot\ChatBot\obj\Debug\ChatBot.pdb
+E:\05.12.19\chatbot\chatbot\ChatBot\bin\Debug\ChatBot.exe.config
+E:\05.12.19\chatbot\chatbot\ChatBot\bin\Debug\ChatBot.exe
+E:\05.12.19\chatbot\chatbot\ChatBot\bin\Debug\ChatBot.pdb
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.Form1.resources
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.YearForm.resources
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.StartForm.resources
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.exe
+E:\05.12.19\chatbot\chatbot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.Form1.resources
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.YearForm.resources
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.StartForm.resources
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.pdb

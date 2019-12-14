@@ -1,0 +1,2003 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <id>1</id>
+    <name>Втеча з Шоушенка</name>
+    <year>1994</year>
+    <director>Френк Дарабонт</director>
+    <genre>драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>2</id>
+    <name>Хрещений батько</name>
+    <year>1972</year>
+    <director>Френсіс Форд Коппола</director>
+    <genre>детектив, драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>3</id>
+    <name>Хрещений батько 2</name>
+    <year>1974</year>
+    <director>Френсіс Форд Коппола</director>
+    <genre>детектив, драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>4</id>
+    <name>Темний лицар</name>
+    <year>2008</year>
+    <director>Крістофер Нолан</director>
+    <genre>бойовик, детектив, драма, трилер</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>5</id>
+    <name>12 розгніваних чоловіків</name>
+    <year>1957</year>
+    <director>Сідні Люмет</director>
+    <genre>детектив, драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>6</id>
+    <name>Список Шиндлера</name>
+    <year>1993</year>
+    <director>Стівен Спілберг</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>7</id>
+    <name>Кримінальне чтиво</name>
+    <year>1994</year>
+    <director>Квентін Тарантіно</director>
+    <genre>детектив, драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>8</id>
+    <name>Володар кілець: Повернення короля</name>
+    <year>2003</year>
+    <director>Пітер Джексон</director>
+    <genre>пригода, драма, фентезі</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>9</id>
+    <name>Джокер</name>
+    <year>2019</year>
+    <director>Тодд Філліпс</director>
+    <genre>драма, трилер</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>10</id>
+    <name>Бійцівський клуб</name>
+    <year>1999</year>
+    <director>Девід Фінчер</director>
+    <genre>драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>11</id>
+    <name>Володар кілець: Братерство Кільця</name>
+    <year>2001</year>
+    <director>Пітер Джексон</director>
+    <genre>пригода, драма, фентезі</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>12</id>
+    <name>Форрест Гамп</name>
+    <year>1994</year>
+    <director>Роберт Земекіс</director>
+    <genre>комедія, драма, мелодрама</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>13</id>
+    <name>Зоряні війни. Епізод V: Імперія завдає удару у відповідь</name>
+    <year>1980</year>
+    <director>Ірвін Кершнер</director>
+    <genre>бойовик, пригода, фентезі, наукова фантастика</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>14</id>
+    <name>Початок</name>
+    <year>2010</year>
+    <director>Крістофер Нолан</director>
+    <genre>бойовик, пригода, наукова фантастика, трилер</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>15</id>
+    <name>Володар кілець: Дві фортеці</name>
+    <year>2002</year>
+    <director>Пітер Джексон</director>
+    <genre>пригода, драма, фентезі</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>16</id>
+    <name>Пролітаючи над гніздом зозулі</name>
+    <year>1975</year>
+    <director>Мілош Форман</director>
+    <genre>драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>17</id>
+    <name>Славні хлопці</name>
+    <year>1990</year>
+    <director>Мартін Скорсезе</director>
+    <genre>детектив, драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>18</id>
+    <name>Матриця</name>
+    <year>1999</year>
+    <director>Енді і Ларрі Вачовські</director>
+    <genre>бойовик, наукова фантастика</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>19</id>
+    <name>Сім самураїв</name>
+    <year>1954</year>
+    <director>Акіра Куросава</director>
+    <genre>пригода, драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>20</id>
+    <name>Зоряні війни. Епізод IV: Нова надія</name>
+    <year>1977</year>
+    <director>Джордж Лукас</director>
+    <genre>бойовик, пригода, фентезі, наукова фантастика</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>21</id>
+    <name>Місто Бога</name>
+    <year>2002</year>
+    <director>Фернанду Мейрелліш</director>
+    <genre>детектив, драма</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>22</id>
+    <name>Сім</name>
+    <year>1995</year>
+    <director>Девід Фінчер</director>
+    <genre>детектив, драма, таємничий фільм, трилер</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>23</id>
+    <name>Мовчання ягнят</name>
+    <year>1991</year>
+    <director>Джонатан Демми</director>
+    <genre>детектив, драма, трилер</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>24</id>
+    <name>Це прекрасне життя</name>
+    <year>1946</year>
+    <director>Френк Капра</director>
+    <genre>драма, сімейний фільм, фентезі</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>25</id>
+    <name>Життя прекрасне</name>
+    <year>1997</year>
+    <director>Роберто Беніньї</director>
+    <genre>комедія, драма, військовий фільм</genre>
+    <rating>10</rating>
+  </film>
+  <film>
+    <id>26</id>
+    <name>Підозрілі особи</name>
+    <year>1995</year>
+    <director>Брайан Сінгер</director>
+    <genre>детектив, драма, таємничий фільм, трилер</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>27</id>
+    <name>Леон</name>
+    <year>1994</year>
+    <director>Люк Бессон</director>
+    <genre>детектив, драма, трилер</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>28</id>
+    <name>Врятувати рядового Райана</name>
+    <year>1998</year>
+    <director>Стівен Спілберг</director>
+    <genre>драма, військовий фільм</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>29</id>
+    <name>Віднесені примарами</name>
+    <year>2001</year>
+    <director>Хаяо Міядзакі</director>
+    <genre>мультфільм, пригода, сімейний фільм, фентезі, таємничий фільм</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>30</id>
+    <name>Американська історія Ікс</name>
+    <year>1998</year>
+    <director>Тоні Кей</director>
+    <genre>детектив, драма</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>31</id>
+    <name>Одного разу на Дикому Заході</name>
+    <year>1968</year>
+    <director>Серджо Леоне</director>
+    <genre>історичний фільм, вестерн</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>32</id>
+    <name>Інтерстеллар</name>
+    <year>2014</year>
+    <director>Крістофер Нолан</director>
+    <genre>пригода, драма, наукова фантастика</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>33</id>
+    <name>Психо</name>
+    <year>1960</year>
+    <director>Альфред Хічкок</director>
+    <genre>фільм жахів, таємничий фільм, трилер</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>34</id>
+    <name>Зелена миля</name>
+    <year>1999</year>
+    <director>Френк Дарабонт</director>
+    <genre>детектив, драма, фентезі, таємничий фільм</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>35</id>
+    <name>Касабланка</name>
+    <year>1942</year>
+    <director>Майкл Кертіца</director>
+    <genre>драма, мелодрама, військовий фільм</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>36</id>
+    <name>Вогні великого міста</name>
+    <year>1931</year>
+    <director>Чарлі Чаплін</director>
+    <genre>комедія, драма, мелодрама</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>37</id>
+    <name>1 + 1</name>
+    <year>2011</year>
+    <director>Олів'є Накаш, Ерік Толедано</director>
+    <genre>біографія, комедія, драма</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>38</id>
+    <name>Нові часи</name>
+    <year>1936</year>
+    <director>Чарлі Чаплін</director>
+    <genre>комедія, драма, сімейний фільм, мелодрама</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>39</id>
+    <name>Індіана Джонс: У пошуках втраченого ковчега</name>
+    <year>1981</year>
+    <director>Стівен Спілберг</director>
+    <genre>бойовик, пригода</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>40</id>
+    <name>Піаніст</name>
+    <year>2002</year>
+    <director>Роман Поланскі</director>
+    <genre>біографія, драма, музичний фільм, військовий фільм</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>41</id>
+    <name>Відступники</name>
+    <year>2006</year>
+    <director>Мартін Скорсезе</director>
+    <genre>детектив, драма, трилер</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>42</id>
+    <name>Вікно у двір</name>
+    <year>1954</year>
+    <director>Альфред Хічкок</director>
+    <genre>таємничий фільм, трилер</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>43</id>
+    <name>Термінатор 2: Судний день</name>
+    <year>1991</year>
+    <director>Джеймс Кемерон</director>
+    <genre>бойовик, наукова фантастика, трилер</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>44</id>
+    <name>Назад в майбутнє</name>
+    <year>1985</year>
+    <director>Роберт Земекіс</director>
+    <genre>пригода, комедія, наукова фантастика</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>45</id>
+    <name>Одержимість</name>
+    <year>2014</year>
+    <director>Дем'єн Шазелл</director>
+    <genre>драма, музичний фільм</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>46</id>
+    <name>Гладіатор</name>
+    <year>2000</year>
+    <director>Рідлі Скотт</director>
+    <genre>бойовик, пригода, драма</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>47</id>
+    <name>Престиж</name>
+    <year>2006</year>
+    <director>Крістофер Нолан</director>
+    <genre>драма, таємничий фільм, наукова фантастика, трилер</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>48</id>
+    <name>Король Лев</name>
+    <year>1994</year>
+    <director>Роджер Аллерс, Роб Мінкофф</director>
+    <genre>мультфільм, пригода, драма, сімейний фільм, музичний фільм</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>49</id>
+    <name>Пам'ятай</name>
+    <year>2000</year>
+    <director>Крістофер Нолан</director>
+    <genre>таємничий фільм, трилер</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>50</id>
+    <name>Апокаліпсис сьогодні</name>
+    <year>1979</year>
+    <director>Френсіс Форд Коппола</director>
+    <genre>драма, військовий фільм</genre>
+    <rating>9</rating>
+  </film>
+  <film>
+    <id>51</id>
+    <name>Чужий</name>
+    <year>1979</year>
+    <director>Рідлі Скотт</director>
+    <genre>фільм жахів, наукова фантастика</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>52</id>
+    <name>Великий диктатор</name>
+    <year>1940</year>
+    <director>Чарлі Чаплін</director>
+    <genre>комедія, драма, військовий фільм</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>53</id>
+    <name>Бульвар Сансет</name>
+    <year>1950</year>
+    <director>Біллі Уайлдер</director>
+    <genre>драма, нуар</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>54</id>
+    <name>Доктор Стрейнджлав</name>
+    <year>1964</year>
+    <director>Стенлі Кубрик</director>
+    <genre>комедія</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>55</id>
+    <name>Новий кінотеатр «Парадізо»</name>
+    <year>1988</year>
+    <director>Джузеппе Торнаторе</director>
+    <genre>комедія, драма</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>56</id>
+    <name>Життя інших</name>
+    <year>2006</year>
+    <director>Флоріан Хенкель фон Доннерсмарк</director>
+    <genre>драма, трилер</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>57</id>
+    <name>Могила світлячків</name>
+    <year>1988</year>
+    <director>ТАКАХАТА ІСАО</director>
+    <genre>мультфільм, драма, військовий фільм</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>58</id>
+    <name>Стежки слави</name>
+    <year>1957</year>
+    <director>Стенлі Кубрик</director>
+    <genre>драма, військовий фільм</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>59</id>
+    <name>Джанго звільнений</name>
+    <year>2012</year>
+    <director>Квентін Тарантіно</director>
+    <genre>драма, вестерн</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>60</id>
+    <name>Сяйво</name>
+    <year>1980</year>
+    <director>Стенлі Кубрик</director>
+    <genre>драма, фільм жахів</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>61</id>
+    <name>ВАЛЛ-І</name>
+    <year>2008</year>
+    <director>Ендрю Стентон</director>
+    <genre>мультфільм, пригода, сімейний фільм, наукова фантастика</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>62</id>
+    <name>Краса по-американськи</name>
+    <year>1999</year>
+    <director>Сем Мендес</director>
+    <genre>драма, мелодрама</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>63</id>
+    <name>Темний лицар: Відродження легенди</name>
+    <year>2012</year>
+    <director>Крістофер Нолан</director>
+    <genre>бойовик, трилер</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>64</id>
+    <name>Принцеса Мононоке</name>
+    <year>1997</year>
+    <director>Хаяо Міядзакі</director>
+    <genre>мультфільм, пригода, фентезі</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>65</id>
+    <name>Чужі</name>
+    <year>1986</year>
+    <director>Джеймс Кемерон</director>
+    <genre>бойовик, пригода, наукова фантастика, трилер</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>66</id>
+    <name>Олдбой</name>
+    <year>2003</year>
+    <director>Пак Чхан Ук</director>
+    <genre>бойовик, драма, таємничий фільм, трилер</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>67</id>
+    <name>Свідок обвинувачення</name>
+    <year>1957</year>
+    <director>Біллі Уайлдер</director>
+    <genre>детектив, драма, таємничий фільм, трилер</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>68</id>
+    <name>Одного разу в Америці</name>
+    <year>1984</year>
+    <director>Серджо Леоне</director>
+    <genre>детектив, драма</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>69</id>
+    <name>Підводний човен</name>
+    <year>1981</year>
+    <director>Вольфганг Петерсен</director>
+    <genre>пригода, драма, трилер, військовий фільм</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>70</id>
+    <name>Громадянин Кейн</name>
+    <year>1941</year>
+    <director>Орсон Уеллс</director>
+    <genre>драма, таємничий фільм</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>71</id>
+    <name>Дангал</name>
+    <year>2016</year>
+    <director>Нітеш Тиварі</director>
+    <genre>бойовик, біографія, драма, спортивний фільм</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>72</id>
+    <name>Запаморочення</name>
+    <year>1958</year>
+    <director>Альфред Хічкок</director>
+    <genre>таємничий фільм, мелодрама, трилер</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>73</id>
+    <name>На північ через північний захід</name>
+    <year>1959</year>
+    <director>Альфред Хічкок</director>
+    <genre>бойовик, пригода, таємничий фільм, трилер</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>74</id>
+    <name>Зоряні війни. Епізод VI: Повернення джедая</name>
+    <year>1983</year>
+    <director>Річард Маркуанд</director>
+    <genre>бойовик, пригода, фентезі, наукова фантастика</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>75</id>
+    <name>Хоробре серце</name>
+    <year>1995</year>
+    <director>Мел Гібсон</director>
+    <genre>біографія, драма, історичний фільм, військовий фільм</genre>
+    <rating>8</rating>
+  </film>
+  <film>
+    <id>76</id>
+    <name>Скажені пси</name>
+    <year>1992</year>
+    <director>Квентін Тарантіно</director>
+    <genre>детектив, драма, трилер</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>77</id>
+    <name>М</name>
+    <year>1931</year>
+    <director>Фріц Ланг</director>
+    <genre>детектив, драма, таємничий фільм, трилер</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>78</id>
+    <name>Реквієм за мрією</name>
+    <year>2000</year>
+    <director>Даррен Аронофскі</director>
+    <genre>драма</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>79</id>
+    <name>Амелі</name>
+    <year>2001</year>
+    <director>Жан-П'єр Жене</director>
+    <genre>комедія, мелодрама</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>80</id>
+    <name>Дюнкерк</name>
+    <year>2017</year>
+    <director>Крістофер Нолан</director>
+    <genre>бойовик, драма, історичний фільм, трилер, військовий фільм</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>81</id>
+    <name>Зірочки на землі</name>
+    <year>2007</year>
+    <director>Аамір Хан</director>
+    <genre>драма, сімейний фільм</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>82</id>
+    <name>Механічний апельсин</name>
+    <year>1971</year>
+    <director>Стенлі Кубрик</director>
+    <genre>детектив, драма, наукова фантастика</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>83</id>
+    <name>Твоє ім'я</name>
+    <year>2016</year>
+    <director>Макото Сінкай</director>
+    <genre>мультфільм, драма, фентезі, мелодрама</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>84</id>
+    <name>Лоуренс Аравійський</name>
+    <year>1962</year>
+    <director>Девід Лін</director>
+    <genre>пригода, біографія, драма, історичний фільм, військовий фільм</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>85</id>
+    <name>Подвійна страховка</name>
+    <year>1944</year>
+    <director>Біллі Уайлдер</director>
+    <genre>детектив, драма, нуар, таємничий фільм, трилер</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>86</id>
+    <name>Таксист</name>
+    <year>1976</year>
+    <director>Мартін Скорсезе</director>
+    <genre>детектив, драма</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>87</id>
+    <name>Амадей</name>
+    <year>1984</year>
+    <director>Мілош Форман</director>
+    <genre>біографія, драма, історичний фільм, музичний фільм</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>88</id>
+    <name>Вічне сяйво чистого розуму</name>
+    <year>2004</year>
+    <director>Мішель Гондрі</director>
+    <genre>драма, мелодрама, наукова фантастика</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>89</id>
+    <name>Убити пересмішника</name>
+    <year>1962</year>
+    <director>Роберт Малліган</director>
+    <genre>детектив, драма</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>90</id>
+    <name>Цельнометаллическая оболонка</name>
+    <year>1987</year>
+    <director>Стенлі Кубрик</director>
+    <genre>драма, військовий фільм</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>91</id>
+    <name>Космічна одіссея 2001</name>
+    <year>1968</year>
+    <director>Стенлі Кубрик</director>
+    <genre>пригода, наукова фантастика</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>92</id>
+    <name>співають під дощем</name>
+    <year>1952</year>
+    <director>Стенлі Донен, Джин Келлі</director>
+    <genre>комедія, музичний фільм, мелодрама</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>93</id>
+    <name>Історія іграшок: Велика втеча</name>
+    <year>2010</year>
+    <director>Лі Анкріч</director>
+    <genre>мультфільм, пригода, комедія, сімейний фільм, фентезі</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>94</id>
+    <name>Афера</name>
+    <year>1973</year>
+    <director>Джордж Рой Хілл</director>
+    <genre>комедія, детектив, драма</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>95</id>
+    <name>Історія іграшок</name>
+    <year>1995</year>
+    <director>Джон Лассетер</director>
+    <genre>мультфільм, пригода, комедія, сімейний фільм, фентезі</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>96</id>
+    <name>3 ідіота</name>
+    <year>2009</year>
+    <director>Раджкумар Хірані</director>
+    <genre>пригода, комедія, драма, мелодрама</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>97</id>
+    <name>Викрадачі велосипедів</name>
+    <year>1948</year>
+    <director>Вітторіо де Сіка</director>
+    <genre>драма</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>98</id>
+    <name>Безславні виродки</name>
+    <year>2009</year>
+    <director>Квентін Тарантіно</director>
+    <genre>пригода, драма, військовий фільм</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>99</id>
+    <name>Малюк</name>
+    <year>1921</year>
+    <director>Чарлі Чаплін</director>
+    <genre>комедія, драма, сімейний фільм</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>100</id>
+    <name>Великий куш</name>
+    <year>2000</year>
+    <director>Гай Річі</director>
+    <genre>комедія, детектив</genre>
+    <rating>7</rating>
+  </film>
+  <film>
+    <id>101</id>
+    <name>Монті Пайтон і Священний Грааль</name>
+    <year>1975</year>
+    <director>Террі Гілліам, Террі Джонс</director>
+    <genre>пригода, комедія, фентезі</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>102</id>
+    <name>На кілька доларів більше</name>
+    <year>1965</year>
+    <director>Серджо Леоне</director>
+    <genre>вестерн</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>103</id>
+    <name>Розумниця Уілл Хантінг</name>
+    <year>1997</year>
+    <director>Гас Ван Сент</director>
+    <genre>драма</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>104</id>
+    <name>Секрети Лос-Анджелеса</name>
+    <year>1997</year>
+    <director>Кертіс Хенсон</director>
+    <genre>детектив, драма, таємничий фільм, трилер</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>105</id>
+    <name>Полювання</name>
+    <year>2012</year>
+    <director>Томас Вінтерберг</director>
+    <genre>драма</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>106</id>
+    <name>Обличчя зі шрамом</name>
+    <year>1983</year>
+    <director>Брайан де Пальма</director>
+    <genre>детектив, драма</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>107</id>
+    <name>Квартира</name>
+    <year>1960</year>
+    <director>Біллі Уайлдер</director>
+    <genre>комедія, драма, мелодрама</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>108</id>
+    <name>Расемон</name>
+    <year>1950</year>
+    <director>Акіра Куросава</director>
+    <genre>детектив драма, таємничий фільм</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>109</id>
+    <name>Метрополіс</name>
+    <year>1927</year>
+    <director>Фріц Ланг</director>
+    <genre>драма, наукова фантастика</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>110</id>
+    <name>Розлучення Надера і Сімін</name>
+    <year>2011</year>
+    <director>Асгар Фархаді</director>
+    <genre>драма, таємничий фільм</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>111</id>
+    <name>Індіана Джонс і останній хрестовий похід</name>
+    <year>1989</year>
+    <director>Стівен Спілберг</director>
+    <genre>бойовик, пригода, фентезі</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>112</id>
+    <name>Мій батько і мій син</name>
+    <year>2005</year>
+    <director>Чаган Ирмак</director>
+    <genre>драма</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>113</id>
+    <name>Все про Єву</name>
+    <year>1950</year>
+    <director>Джозеф Лео Манкевич</director>
+    <genre>драма</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>114</id>
+    <name>Охоронець</name>
+    <year>1961</year>
+    <director>Акіра Куросава</director>
+    <genre>бойовик, драма, трилер</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>115</id>
+    <name>Бетмен: Початок</name>
+    <year>2005</year>
+    <director>Крістофер Нолан</director>
+    <genre>бойовик, пригода, трилер</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>116</id>
+    <name>Вгору</name>
+    <year>2009</year>
+    <director>Піт Доктер</director>
+    <genre>мультфільм, пригода, комедія, сімейний фільм</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>117</id>
+    <name>В джазі тільки дівчата</name>
+    <year>1959</year>
+    <director>Біллі Уайлдер</director>
+    <genre>комедія, мелодрама</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>118</id>
+    <name>Скарби Сьєрра-Мадре</name>
+    <year>1948</year>
+    <director>Джон Х'юстон</director>
+    <genre>пригода, драма, вестерн</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>119</id>
+    <name>Непрощений</name>
+    <year>1992</year>
+    <director>Клінт Іствуд</director>
+    <genre>драма, вестерн</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>120</id>
+    <name>Бункер</name>
+    <year>2004</year>
+    <director>Олівер Хіршбігель</director>
+    <genre>біографія, драма, історичний фільм, військовий фільм</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>121</id>
+    <name>Міцний горішок</name>
+    <year>1988</year>
+    <director>Джон Мактирнан</director>
+    <genre>бойовик, детектив, трилер</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>122</id>
+    <name>Скажений бик</name>
+    <year>1980</year>
+    <director>Мартін Скорсезе</director>
+    <genre>драма, біографія, Спортивний фільм</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>123</id>
+    <name>Сутичка</name>
+    <year>1995</year>
+    <director>Майкл Манн</director>
+    <genre>детектив, трилер, драма</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>124</id>
+    <name>Діти небес</name>
+    <year>1997</year>
+    <director>Маджид Маджіді</director>
+    <genre>драма, сімейний фільм</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>125</id>
+    <name>Третя людина</name>
+    <year>1949</year>
+    <director>Керол Рід</director>
+    <genre>нуар, трилер, таємничий фільм</genre>
+    <rating>6</rating>
+  </film>
+  <film>
+    <id>126</id>
+    <name>Велика втеча</name>
+    <year>1963</year>
+    <director>Джон Стерджес</director>
+    <genre>пригода, драма, історичний фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>127</id>
+    <name>Китайський квартал</name>
+    <year>1974</year>
+    <director>Роман Поланскі</director>
+    <genre>детектив, драма, таємничий фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>128</id>
+    <name>Жити</name>
+    <year>1952</year>
+    <director>Акіра Куросава</director>
+    <genre>драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>129</id>
+    <name>Лабіринт фавна</name>
+    <year>2006</year>
+    <director>Гільєрмо дель Торо</director>
+    <genre>фентезі, драма, таємничий фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>130</id>
+    <name>Мій сусід Тоторо</name>
+    <year>1988</year>
+    <director>Хаяо Міядзакі</director>
+    <genre>мультфільм, пригода, сімейний фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>131</id>
+    <name>Ран</name>
+    <year>1985</year>
+    <director>Акіра Куросава</director>
+    <genre>бойовик, драма, військовий фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>132</id>
+    <name>Золота лихоманка</name>
+    <year>1925</year>
+    <director>Чарлі Чаплін</director>
+    <genre>комедія, пригода, сімейний фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>133</id>
+    <name>Головоломка</name>
+    <year>2015</year>
+    <director>Піт Доктер</director>
+    <genre>мультфільм, комедія, драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>134</id>
+    <name>Пожежі</name>
+    <year>2010</year>
+    <director>Дені Вільнев</director>
+    <genre>драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>135</id>
+    <name>Таємниця в його очах</name>
+    <year>2009</year>
+    <director>Хуан Хосе Томмазо Кампанелла</director>
+    <genre>драма, таємничий фільм, мелодрама</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>136</id>
+    <name>В порту</name>
+    <year>1954</year>
+    <director>Еліа Казан</director>
+    <genre>детектив, драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>137</id>
+    <name>Нюрнберзький процес</name>
+    <year>1961</year>
+    <director>Стенлі Крамер</director>
+    <genre>драма, історичний фільм, військовий фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>138</id>
+    <name>Міст через річку Квай</name>
+    <year>1957</year>
+    <director>Девід Лін</director>
+    <genre>пригода, драма, військовий фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>139</id>
+    <name>Ходячий замок</name>
+    <year>2004</year>
+    <director>Хаяо Міядзакі</director>
+    <genre>аніме, пригода, бойовик</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>140</id>
+    <name>Кімната</name>
+    <year>2015</year>
+    <director>Ленні Абрахамсон</director>
+    <genre>драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>141</id>
+    <name>Той, що біжить по лезу</name>
+    <year>1982</year>
+    <director>Рідлі Скотт</director>
+    <genre>наукова фантастика, трилер, драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>142</id>
+    <name>Сьома печатка</name>
+    <year>1957</year>
+    <director>Інгмар Бергман</director>
+    <genre>драма, фентезі</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>143</id>
+    <name>Містер Сміт їде до Вашингтона</name>
+    <year>1939</year>
+    <director>Френк Капра</director>
+    <genre>драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>144</id>
+    <name>Карти, гроші, два стволи</name>
+    <year>1998</year>
+    <director>Гай Річі</director>
+    <genre>детектив, трилер</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>145</id>
+    <name>Казино</name>
+    <year>1995</year>
+    <director>Мартін Скорсезе</director>
+    <genre>біографія, детектив, драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>146</id>
+    <name>Ігри розуму</name>
+    <year>2001</year>
+    <director>Рон Ховард</director>
+    <genre>драма, біографія</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>147</id>
+    <name>Людина-слон</name>
+    <year>1980</year>
+    <director>Девід Лінч</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>148</id>
+    <name>Сунична галявина</name>
+    <year>1957</year>
+    <director>Інгмар Бергман</director>
+    <genre>драма</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>149</id>
+    <name>V - значить вендета</name>
+    <year>2006</year>
+    <director>Джеймс Мактіг</director>
+    <genre>бойовик, наукова фантастика, трилер</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>150</id>
+    <name>Вовк з Уолл-стріт</name>
+    <year>2013</year>
+    <director>Мартін Скорсезе</director>
+    <genre>біографія, комедія, детектив</genre>
+    <rating>5</rating>
+  </film>
+  <film>
+    <id>151</id>
+    <name>Генерал</name>
+    <year>1927</year>
+    <director>Клайд Брукман, Бастер Кітон</director>
+    <genre>комедія, мелодрама</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>152</id>
+    <name>Воїн</name>
+    <year>2011</year>
+    <director>Гевін О'Коннор</director>
+    <genre>бойовик, драма</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>153</id>
+    <name>На голці</name>
+    <year>1996</year>
+    <director>Денні Бойл</director>
+    <genre>детектив, драма</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>154</id>
+    <name>У випадку вбивства набирайте «М»</name>
+    <year>1954</year>
+    <director>Альфред Хічкок</director>
+    <genre>детектив, трилер, таємничий фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>155</id>
+    <name>Андрій Рубльов</name>
+    <year>1966</year>
+    <director>Андрій Тарковський</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>156</id>
+    <name>Гран Торіно</name>
+    <year>2008</year>
+    <director>Клінт Іствуд</director>
+    <genre>драма</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>157</id>
+    <name>Схід сонця</name>
+    <year>1927</year>
+    <director>Фрідріх Вільгельм Мурнау</director>
+    <genre>комедія, драма, романтична комедія</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>158</id>
+    <name>Ла-Ла Ленд</name>
+    <year>2016</year>
+    <director>Дем'єн Шазелл</director>
+    <genre>комедія, драма, музичний фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>159</id>
+    <name>Віднесені вітром</name>
+    <year>1939</year>
+    <director>Віктор Флемінг</director>
+    <genre>драма, мелодрама, військовий фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>160</id>
+    <name>Бандит</name>
+    <year>1996</year>
+    <director>Явуз Тургул</director>
+    <genre>детектив, драма, трилер</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>161</id>
+    <name>Мисливець на оленів</name>
+    <year>1978</year>
+    <director>Майкл Чіміно</director>
+    <genre>драма, військовий фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>162</id>
+    <name>Фарго</name>
+    <year>1996</year>
+    <director>Брати Коени</director>
+    <genre>детектив, трилер, драма</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>163</id>
+    <name>Шосте почуття</name>
+    <year>1999</year>
+    <director>М. Найт Шьямалан</director>
+    <genre>драма, таємничий фільм, трилер</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>164</id>
+    <name>Щось</name>
+    <year>1982</year>
+    <director>Джон Карпентер</director>
+    <genre>наукова фантастика, фільм жахів, таємничий фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>165</id>
+    <name>Великий Лебовські</name>
+    <year>1998</year>
+    <director>Брати Коени</director>
+    <genre>комедія, детектив, таємничий фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>166</id>
+    <name>Старим тут не місце</name>
+    <year>2007</year>
+    <director>Брати Коени</director>
+    <genre>детектив, драма, таємничий фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>167</id>
+    <name>В пошуках Немо</name>
+    <year>2003</year>
+    <director>Ендрю Стентон</director>
+    <genre>мультфільм, пригода, комедія</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>168</id>
+    <name>Токійська повість</name>
+    <year>1953</year>
+    <director>Ясудзіро Одзу</director>
+    <genre>драма</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>169</id>
+    <name>З міркувань совісті</name>
+    <year>2016</year>
+    <director>Мел Гібсон</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>170</id>
+    <name>Холоднокровний Люк</name>
+    <year>1967</year>
+    <director>Стюарт Розенберг</director>
+    <genre>детектив, драма</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>171</id>
+    <name>Нафта</name>
+    <year>2007</year>
+    <director>Пол Томас Андерсон</director>
+    <genre>драма</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>172</id>
+    <name>Ребекка</name>
+    <year>1940</year>
+    <director>Альфред Хічкок</director>
+    <genre>таємничий фільм, мелодрама, трилер</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>173</id>
+    <name>Колір шафрану</name>
+    <year>2006</year>
+    <director>Ракеш Омпракаш Мехра</director>
+    <genre>драма, історичний фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>174</id>
+    <name>Іди і дивись</name>
+    <year>1985</year>
+    <director>Елем Климов</director>
+    <genre>драма, військовий фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>175</id>
+    <name>Пристрасті Жанни д'Арк</name>
+    <year>1928</year>
+    <director>Карл Теодор Дрейер</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>4</rating>
+  </film>
+  <film>
+    <id>176</id>
+    <name>Вбити Білла. Фільм 1</name>
+    <year>2003</year>
+    <director>Квентін Тарантіно</director>
+    <genre>бойовик, трилер, детектив</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>177</id>
+    <name>Логан</name>
+    <year>2017</year>
+    <director>Джеймс Менголд</director>
+    <genre>бойовик, драма, наукова фантастика</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>178</id>
+    <name>Як приручити дракона</name>
+    <year>2010</year>
+    <director>Кріс Сандерс, Дін Деблуа</director>
+    <genre>мультфільм, пригода</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>179</id>
+    <name>Мері і Макс</name>
+    <year>2009</year>
+    <director>Адам Елліот</director>
+    <genre>пригода, комедія, драма</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>180</id>
+    <name>Зникла</name>
+    <year>2014</year>
+    <director>Девід Фінчер</director>
+    <genre>драма, таємничий фільм, трилер</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>181</id>
+    <name>В диких умовах</name>
+    <year>2007</year>
+    <director>Шон Пенн</director>
+    <genre>пригода, біографія, драма</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>182</id>
+    <name>Острів проклятих</name>
+    <year>2010</year>
+    <director>Мартін Скорсезе</director>
+    <genre>драма, трилер, таємничий фільм</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>183</id>
+    <name>середовища</name>
+    <year>2008</year>
+    <director>Нірадж Пандея</director>
+    <genre>детектив, драма, таємничий фільм</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>184</id>
+    <name>Це трапилося одного разу вночі</name>
+    <year>1934</year>
+    <director>Френк Капра</director>
+    <genre>комедія, мелодрама</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>185</id>
+    <name>Житіє Брайана по Монті Пайтон</name>
+    <year>1979</year>
+    <director>Террі Джонс</director>
+    <genre>комедія</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>186</id>
+    <name>Дикі історії</name>
+    <year>2014</year>
+    <director>Шіфрон, Даміан</director>
+    <genre>комедія, драма, трилер</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>187</id>
+    <name>Взвод</name>
+    <year>1986</year>
+    <director>Олівер Стоун</director>
+    <genre>бойовик, драма, військовий фільм</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>188</id>
+    <name>Готель Руанда</name>
+    <year>2004</year>
+    <director>Террі Джордж</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>189</id>
+    <name>Плата за страх</name>
+    <year>1953</year>
+    <director>Анрі-Жорж Клузо</director>
+    <genre>пригода, драма, трилер</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>190</id>
+    <name>Телемережа</name>
+    <year>1975</year>
+    <director>Сідні Люмет</director>
+    <genre>драма</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>191</id>
+    <name>Гонка</name>
+    <year>2013</year>
+    <director>Рон Ховард</director>
+    <genre>біографічний фільм, драма, спортивний фільм</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>192</id>
+    <name>В ім'я батька</name>
+    <year>1993</year>
+    <director>Джим Шерідан</director>
+    <genre>біографія, драма, трилер</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>193</id>
+    <name>Залишся зі мною</name>
+    <year>1986</year>
+    <director>Роб Райнер</director>
+    <genre>пригода, драма</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>194</id>
+    <name>Персона</name>
+    <year>1966</year>
+    <director>Інгмар Бергман</director>
+    <genre>драма, фентезі</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>195</id>
+    <name>Чотириста ударів</name>
+    <year>1959</year>
+    <director>Франсуа Трюффо</director>
+    <genre>детектив, драма</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>196</id>
+    <name>Готель «Гранд Будапешт»</name>
+    <year>2014</year>
+    <director>Уес Андерсон</director>
+    <genre>комедія</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>197</id>
+    <name>Бен-Гур</name>
+    <year>1959</year>
+    <director>Вільям Уайлер</director>
+    <genre>бойовик, пригода, драма</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>198</id>
+    <name>12 років рабства</name>
+    <year>2013</year>
+    <director>Стів Макквін</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>199</id>
+    <name>Божевільний Макс: Дорога люті</name>
+    <year>2015</year>
+    <director>Джордж Міллер</director>
+    <genre>бойовик, пригода, наукова фантастика</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>200</id>
+    <name>Спогади про вбивство</name>
+    <year>2003</year>
+    <director>Пон Чжун Хо</director>
+    <genre>драма, таємничий фільм</genre>
+    <rating>3</rating>
+  </film>
+  <film>
+    <id>201</id>
+    <name>В центрі уваги</name>
+    <year>2015</year>
+    <director>Томас Маккарті</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>202</id>
+    <name>Крихітка на мільйон</name>
+    <year>2004</year>
+    <director>Клінт Іствуд</director>
+    <genre>драма, спортивний фільм</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>203</id>
+    <name>Парк юрського періоду</name>
+    <year>1993</year>
+    <director>Стівен Спілберг</director>
+    <genre>пригода, наукова фантастика</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>204</id>
+    <name>Бутч Кессіді і Санденс Кід</name>
+    <year>1969</year>
+    <director>Джордж Рой Хілл</director>
+    <genre>пригода, детектив</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>205</id>
+    <name>Сука любов</name>
+    <year>2000</year>
+    <director>Алехандро Гонсалес Іньярріту</director>
+    <genre>драма, трилер</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>206</id>
+    <name>Сталкер</name>
+    <year>1979</year>
+    <director>Андрій Тарковський</director>
+    <genre>драма, наукова фантастика</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>207</id>
+    <name>Шоу Трумана</name>
+    <year>1998</year>
+    <director>Пітер Уїр</director>
+    <genre>комедія, драма</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>208</id>
+    <name>Мальтійський сокіл</name>
+    <year>1941</year>
+    <director>Джон Х'юстон</director>
+    <genre>детектив, нуар, таємничий фільм</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>209</id>
+    <name>Паперова місяць</name>
+    <year>1973</year>
+    <director>Пітер Богданович</director>
+    <genre>комедія, детектив, драма</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>210</id>
+    <name>Хатіко: найвірніший друг</name>
+    <year>2009</year>
+    <director>Лассе Халльстрем</director>
+    <genre>драма, сімейний фільм</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>211</id>
+    <name>Ночі Кабірії</name>
+    <year>1957</year>
+    <director>Федеріко Фелліні</director>
+    <genre>драма</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>212</id>
+    <name>Навсікая з Долини вітрів</name>
+    <year>1984</year>
+    <director>Хаяо Міядзакі</director>
+    <genre>драма, пригоди, постапокаліптика</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>213</id>
+    <name>Принцеса-наречена</name>
+    <year>1987</year>
+    <director>Роб Райнер</director>
+    <genre>пригода, комедія, сімейний фільм</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>214</id>
+    <name>Перед світанком</name>
+    <year>1995</year>
+    <director>Річард Лінклейтер</director>
+    <genre>драма, мелодрама</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>215</id>
+    <name>Братан Мунна: Продавець щастя</name>
+    <year>2003</year>
+    <director>Раджкумар Хірані</director>
+    <genre>комедія, детектив</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>216</id>
+    <name>Гаррі Поттер і Дари Смерті. Частина 2</name>
+    <year>2011</year>
+    <director>Девід Йейтс</director>
+    <genre>фентезі, пригода, бойовик</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>217</id>
+    <name>Полонянки</name>
+    <year>2013</year>
+    <director>Дені Вільнев</director>
+    <genre>детектив, драма, трилер</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>218</id>
+    <name>Грона гніву</name>
+    <year>1940</year>
+    <director>Джон Форд</director>
+    <genre>драма</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>219</id>
+    <name>Роккі</name>
+    <year>1976</year>
+    <director>Джон Евілдсен</director>
+    <genre>спортивний фільм, драма, мелодрама</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>220</id>
+    <name>Злови мене, якщо зможеш</name>
+    <year>2002</year>
+    <director>Стівен Спілберг</director>
+    <genre>біографія, детектив, драма</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>221</id>
+    <name>Печать зла</name>
+    <year>1958</year>
+    <director>Орсон Уеллс</director>
+    <genre>детектив, нуар, трилер</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>222</id>
+    <name>Дияволиці</name>
+    <year>1954</year>
+    <director>Анрі-Жорж Клузо</director>
+    <genre>детектив, драма, фільм жахів</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>223</id>
+    <name>Зоряні війни: Пробудження сили</name>
+    <year>2015</year>
+    <director>Джеффрі Джейкоб Абрамс</director>
+    <genre>бойовик, пригода, фентезі</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>224</id>
+    <name>Ганді</name>
+    <year>1982</year>
+    <director>Річард Аттенборо</director>
+    <genre>біографія, драма, історичний фільм</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>225</id>
+    <name>Донні Дарко</name>
+    <year>2001</year>
+    <director>Річард Келлі</director>
+    <genre>наукова фантастика, таємничий фільм, драма</genre>
+    <rating>2</rating>
+  </film>
+  <film>
+    <id>226</id>
+    <name>Корпорація монстрів</name>
+    <year>2001</year>
+    <director>Піт Доктер, Девід Сильверман</director>
+    <genre>мультфільм, комедія</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>227</id>
+    <name>Енні Холл</name>
+    <year>1977</year>
+    <director>Вуді Аллен</director>
+    <genre>комедія, драма, мелодрама</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>228</id>
+    <name>Помста і закон</name>
+    <year>1975</year>
+    <director>Рамеш Сіппі</director>
+    <genre>бойовик, пригода, комедія</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>229</id>
+    <name>Термінатор</name>
+    <year>1984</year>
+    <director>Джеймс Кемерон</director>
+    <genre>наукова фантастика, бойовик</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>230</id>
+    <name>Ультиматум Борна</name>
+    <year>2007</year>
+    <director>Пол Грінграсс</director>
+    <genre>бойовик, таємничий фільм, трилер</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>231</id>
+    <name>Баррі Ліндон</name>
+    <year>1975</year>
+    <director>Стенлі Кубрик</director>
+    <genre>драма, мелодрама, військовий фільм</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>232</id>
+    <name>Чарівник країни Оз</name>
+    <year>1939</year>
+    <director>Віктор Флемінг</director>
+    <genre>казка, пригода, комедія</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>233</id>
+    <name>День бабака</name>
+    <year>1993</year>
+    <director>Гарольд Реміс</director>
+    <genre>комедія, драма, фентезі</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>234</id>
+    <name>Ненависть</name>
+    <year>1995</year>
+    <director>Матьє Кассовіц</director>
+    <genre>драма</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>235</id>
+    <name>Вісім з половиною</name>
+    <year>1963</year>
+    <director>Федеріко Фелліні</director>
+    <genre>драма, фентезі</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>236</id>
+    <name>Щелепи</name>
+    <year>1975</year>
+    <director>Стівен Спілберг</director>
+    <genre>трилер</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>237</id>
+    <name>12 мавп</name>
+    <year>1995</year>
+    <director>Террі Гілліам</director>
+    <genre>наукова фантастика</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>238</id>
+    <name>Кращі роки нашого життя</name>
+    <year>1946</year>
+    <director>Вільям Уайлер</director>
+    <genre>драма</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>239</id>
+    <name>Подвійна рокіровка</name>
+    <year>2002</year>
+    <director>Ендрю Лау, Алан Мак</director>
+    <genre>детектив, таємничий фільм</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>240</id>
+    <name>Прислуга</name>
+    <year>2011</year>
+    <director>Тейт Тейлор</director>
+    <genre>драма</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>241</id>
+    <name>Любовний настрій</name>
+    <year>2000</year>
+    <director>Вонг Карвай</director>
+    <genre>драма</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>242</id>
+    <name>Париж, Техас</name>
+    <year>1984</year>
+    <director>Вім Вендерс</director>
+    <genre>драма</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>243</id>
+    <name>Битва за Алжир</name>
+    <year>1966</year>
+    <director>Джилло Понтекорво</director>
+    <genre>детектив, драма, історичний фільм</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>244</id>
+    <name>Красуня і Чудовисько</name>
+    <year>1991</year>
+    <director>Гері Трусдейл, Кірк Уайз</director>
+    <genre>мультфільм, мелодрама</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>245</id>
+    <name>Собачий полудень</name>
+    <year>1976</year>
+    <director>Сідні Люмет</director>
+    <genre>детектив, драма</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>246</id>
+    <name>Банди Вассейпура</name>
+    <year>2012</year>
+    <director>Анураг Кашьяп</director>
+    <genre>бойовик, детектив, драма</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>247</id>
+    <name>Пірати Карибського моря: Прокляття «Чорної перлини»</name>
+    <year>2003</year>
+    <director>Гор Вербінськи</director>
+    <genre>пригода, фентезі, бойовик</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>248</id>
+    <name>Що сталося з Бебі Джейн?</name>
+    <year>1962</year>
+    <director>Олдріч Роберт</director>
+    <genre>драма, трилер</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>249</id>
+    <name>Пікей</name>
+    <year>2014</year>
+    <director>Раджкумар Хірані</director>
+    <genre>комедія, драма, фентезі</genre>
+    <rating>1</rating>
+  </film>
+  <film>
+    <id>250</id>
+    <name>Служниця</name>
+    <year>2016</year>
+    <director>Пак Чхан Ук</director>
+    <genre>детектив, драма, таємничий фільм, мелодрама, трилер</genre>
+    <rating>1</rating>
+  </film>
+</films>
