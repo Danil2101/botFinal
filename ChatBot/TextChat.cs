@@ -104,7 +104,6 @@ namespace ChatBot
                 foreach (Film f in films.GetContainNameGenre(question))
 
                 {
-                    frm1.textBoxMessages.AppendText("Бот: " + f.Genre + Environment.NewLine);
                     frm1.textBoxMessages.AppendText("Бот: " + f.ToString() + Environment.NewLine);
                 }
             }

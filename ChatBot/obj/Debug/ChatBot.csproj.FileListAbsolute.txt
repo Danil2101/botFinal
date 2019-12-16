@@ -111,3 +111,18 @@ C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot
 C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
 C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.exe
 C:\Users\User\Desktop\IT\Новая папка\chatbot\ChatBot\obj\Debug\ChatBot.pdb
+E:\Danil\bot\ChatBot\bin\Debug\ChatBot.exe.config
+E:\Danil\bot\ChatBot\bin\Debug\ChatBot.exe
+E:\Danil\bot\ChatBot\bin\Debug\ChatBot.pdb
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.Form1.resources
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.GenreForm.resources
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.YearForm.resources
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.RatingForm.resources
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.QuestionForm.resources
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.StartForm.resources
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.exe
+E:\Danil\bot\ChatBot\obj\Debug\ChatBot.pdb
